@@ -3,7 +3,7 @@
   "properties": {
     "scope": {
       "type": "string",
-      "length": 255,
+      "length": 191,
       "index": true,
       "description": "The scope name"
     },

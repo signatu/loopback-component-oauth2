@@ -4,7 +4,8 @@
     "scope": {
       "type": "string",
       "id": true,
-      "generated": false
+      "generated": false, 
+      "length": 191
     },
     "description": "string",
     "iconURL": "string",
